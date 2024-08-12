@@ -16,8 +16,12 @@ DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 STRING = os.environ.get("STRING", "")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
 
-
-
+#Token Verification ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!
+API = os.environ.get("API", "") 
+URL = os.environ.get("URL", "") 
+VERIFY_TUTORIAL = os.environ.get("VERIFY_TUTORIAL", "") 
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "") 
+VERIFY = os.environ.get("VERIFY", "True") 
 
 
 # if you need to add verify system then dm me on telegram
