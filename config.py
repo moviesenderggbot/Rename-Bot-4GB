@@ -18,11 +18,10 @@ BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae
 
 #Token Verification ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!
 API = os.environ.get("API", "") 
-URL = os.environ.get("URL", "") 
-VERIFY_TUTORIAL = os.environ.get("VERIFY_TUTORIAL", "") 
+URL = os.environ.get("URL", "")  
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "") 
 VERIFY = os.environ.get("VERIFY", "True") 
-
+VERIFY_TUTORIAL = os.environ.get("VERIFY_TUTORIAL", "") 
 
 # if you need to add verify system then dm me on telegram
 # Check demo bots
