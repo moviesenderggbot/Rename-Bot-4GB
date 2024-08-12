@@ -17,11 +17,11 @@ STRING = os.environ.get("STRING", "")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
 
 #Token Verification ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!
-API = os.environ.get("API", "") 
-URL = os.environ.get("URL", "")  
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "") 
+API = os.environ.get("API", "https://zipshort.net") 
+URL = os.environ.get("URL", "43fcba24ca148f6e395f86b33efe567d25f33bd7")  
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "Hfhdgdyfhchx_bot") 
 VERIFY = os.environ.get("VERIFY", "True") 
-VERIFY_TUTORIAL = os.environ.get("VERIFY_TUTORIAL", "") 
+VERIFY_TUTORIAL = os.environ.get("VERIFY_TUTORIAL", "https://t.me/BQChats/74936") 
 
 # if you need to add verify system then dm me on telegram
 # Check demo bots
